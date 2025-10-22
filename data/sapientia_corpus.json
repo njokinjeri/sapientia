@@ -1,0 +1,805 @@
+[
+  {
+    "id": 1,
+    "latin": "Sapientia potentia est",
+    "translation": "Wisdom is power ",
+    "explanation": "True power comes from \nwisdom, which is the ability to use knowledge effectively to make good \ndecisions and take appropriate actions.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 2,
+    "latin": "Ama Deum et fac quod vis.",
+    "translation": "Love God and do what you want",
+    "explanation": "A deep, loving relationship with God reorients a person's will. If you love God, you will not want to do anything that offends Him.",
+    "source": "Saint Augustine of Hippo",
+    "theme": {
+      "latin": "Tempus",
+      "english": "Time & Impermanence"
+    }
+  },
+  {
+    "id": 3,
+    "latin": "Scientia potentia est",
+    "translation": "Knowledge is power",
+    "explanation": "Acquiring knowledge and education can increase a person's influence, confidence, and potential.",
+    "source": "Sir Francis Bacon",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 4,
+    "latin": "Quando complexus explicatur, apparet simplex",
+    "translation": "When the complex is explained, it appears simple",
+    "explanation": "Once the deeper workings of something are revealed and properly explained, the whole concept can be seen in a straightforward, simple light.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 5,
+    "latin": "Non fui, fui, non sum, non curo",
+    "translation": "I was not; I was; I am not; I do not care",
+    "explanation": "Life is a brief spark between two eternities. Death is nothing to fear, for it simply returns us to the state we were in before birth. Epicurus reminds us: when we exist, death is absent; when death arrives, we no longer exist, so why worry? Live peacefully in the present",
+    "source": "Epicurus",
+    "theme": {
+      "latin": "Mors",
+      "english": "Death & Mortality"
+    }
+  },
+  {
+    "id": 6,
+    "latin": "Per ardua ad astra",
+    "translation": "Through adversity to the stars",
+    "explanation": "Great achievements can only be attained by overcoming hardship and difficulty.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Fortuna",
+      "english": "Fate & Uncertainity"
+    }
+  },
+  {
+    "id": 7,
+    "latin": "Sed fugit interea, fugit irreparabile tempus",
+    "translation": "But meanwhile, irreparable time flees.",
+    "explanation": "Life moves fast. Every moment that passes is gone forever, and procrastination or idleness steals opportunities we can never recover. Make your choices, act with purpose, and cherish the present.",
+    "source": "Virgil",
+    "theme": {
+      "latin": "Tempus",
+      "english": "Time & Impermanence"
+    }
+  },
+  {
+    "id": 8,
+    "latin": "Quis custodiet ipsos custodes?",
+    "translation": "Who will guard the guards themselves?",
+    "explanation": "A timeless philosophical question that refers to the problem of keeping those in power and authority accountable for their actions.",
+    "source": "Juvenal",
+    "theme": {
+      "latin": "Potentia",
+      "english": "Power & Leadership"
+    }
+  },
+  {
+    "id": 9,
+    "latin": "Omnia vincit amor",
+    "translation": "Love conquers all",
+    "explanation": "Love is powerful enough to overcome any obstacle.",
+    "source": "Virgil",
+    "theme": {
+      "latin": "Amor",
+      "english": "Love & Human Connection"
+    }
+  },
+  {
+    "id": 10,
+    "latin": "Pulvis et umbra sumus",
+    "translation": "We are dust and shadow",
+    "explanation": "A reminder of human mortality, highlighting the transient and ephemeral nature of life, as we are all destined to return to dust and become mere shadows.",
+    "source": "Horace",
+    "theme": {
+      "latin": "Mors",
+      "english": "Death & Mortality"
+    }
+  },
+  {
+    "id": 11,
+    "latin": "Errare humanum est, perseverare autem diabolicum. ",
+    "translation": "To err is human, but to persist in error is diabolical",
+    "explanation": "Mistakes are part of being human, but stubbornly repeating them is a choice. Wisdom lies in learning from errors and not letting them define your path.",
+    "source": "Seneca ",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 12,
+    "latin": "Ama viam, non destinationem",
+    "translation": "Love the journey, not the destination",
+    "explanation": "The value of life lies in the steps we take, not the endpoints we reach. Relish each moment along the path.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Fortuna",
+      "english": "Fate & Uncertainity"
+    }
+  },
+  {
+    "id": 13,
+    "latin": "Forsan et haec olim meminisse juvabit",
+    "translation": "Perhaps even these things will one day be pleasing to remember.",
+    "explanation": "Even the hardest moments may one day be remembered with understanding, growth, or even gratitude. Time reshapes our perspective.",
+    "source": "Virgil",
+    "theme": {
+      "latin": "Fortuna",
+      "english": "Fate & Uncertainity"
+    }
+  },
+  {
+    "id": 14,
+    "latin": "Fluctuat nec mergitur",
+    "translation": "Tossed by the waves but unsinkable",
+    "explanation": "Life may batter you, shake your foundations, and toss you into uncertainty. Yet true resilience lies not in avoiding the storm, but in standing firm amidst it, unbroken.",
+    "source": "motto to the city of Paris",
+    "theme": {
+      "latin": "Fortuna",
+      "english": "Fate & Uncertainity"
+    }
+  },
+  {
+    "id": 15,
+    "latin": "Omnia mea mecum porto",
+    "translation": "All that is mine, I carry with me",
+    "explanation": "All that is truly mine, my wisdom, my character, my knowledge, I carry within me. Material loss cannot touch these treasures.",
+    "source": "Bias of Priene",
+    "theme": {
+      "latin": "Virtus",
+      "english": "Virtue & Character"
+    }
+  },
+  {
+    "id": 16,
+    "latin": "Varietas delectat",
+    "translation": "Variety delights",
+    "explanation": "Life is richest when we embrace variety. Differences, change, and novelty are what make existence engaging and meaningful.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Fortuna",
+      "english": "Fate & Uncertainity"
+    }
+  },
+  {
+    "id": 17,
+    "latin": "Carpe diem",
+    "translation": "Seize the day",
+    "explanation": "Life is fleeting, and the future is uncertain. Embrace the present, act boldly, and make the most of each day.",
+    "source": "Horace",
+    "theme": {
+      "latin": "Tempus",
+      "english": "Time & Impermanence"
+    }
+  },
+  {
+    "id": 18,
+    "latin": "Cogito, ergo sum",
+    "translation": "I think, therefore I am",
+    "explanation": "Doubt everything, but know this: your very ability to think proves that you exist. Consciousness is the undeniable proof of being.",
+    "source": "René Descartes",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 19,
+    "latin": "Acta, non verba",
+    "translation": "Deeds, not words",
+    "explanation": "Words are easy; actions reveal true character. Let your deeds speak louder than promises.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Virtus",
+      "english": "Virtue & Character"
+    }
+  },
+  {
+    "id": 20,
+    "latin": "Ex nihilo nihil fit",
+    "translation": "Nothing comes from nothing",
+    "explanation": "Nothing arises from nothing. Every effect has a cause; every creation has a beginning. Seek the roots, not just the fruits.",
+    "source": "Parmenides",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 21,
+    "latin": "Pecunia non olet",
+    "translation": "Money does not stink",
+    "explanation": "Money itself carries no moral weight; it is a tool. What matters is how it is used, not where it comes from.",
+    "source": "Vespasian",
+    "theme": {
+      "latin": "Virtus",
+      "english": "Virtue & Character"
+    }
+  },
+  {
+    "id": 22,
+    "latin": "Nitimur in vetitum",
+    "translation": "We strive for the forbidden",
+    "explanation": "Humans are naturally drawn to what is forbidden. Desire often seeks what is off-limits, revealing both curiosity and folly.",
+    "source": "Ovid",
+    "theme": {
+      "latin": "Virtus",
+      "english": "Virtue & Character"
+    }
+  },
+  {
+    "id": 23,
+    "latin": "Audentes fortuna iuvat",
+    "translation": "Fortune favors the bold",
+    "explanation": "Fortune smiles on those who dare to act. Boldness is the first step toward success.",
+    "source": "Terence",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 24,
+    "latin": "Dulce est desipere in loco",
+    "translation": "It is sweet to be foolish at the proper time.",
+    "explanation": "Life is richer when you allow yourself lighthearted moments at the right time.",
+    "source": "Horace",
+    "theme": {
+      "latin": "Tempus",
+      "english": "Time & Impermanence"
+    }
+  },
+  {
+    "id": 25,
+    "latin": "Si vis amari ama",
+    "translation": "if you want to be loved, love",
+    "explanation": "Love is reciprocal, but not transactional. The only way to be worthy of affection is to practice it first, without demand, without expectation.",
+    "source": "Seneca",
+    "theme": {
+      "latin": "Amor",
+      "english": "Love & Human Connection"
+    }
+  },
+  {
+    "id": 26,
+    "latin": "Amor et melle et felle est fecundissimus",
+    "translation": "Love is rich with both honey and venom",
+    "explanation": "Love nourishes and wounds alike. To feel deeply is to accept both the sweetness of joy and the sting of loss,  they are born of the same source.",
+    "source": " Plautus",
+    "theme": {
+      "latin": "Amor",
+      "english": "Love & Human Connection"
+    }
+  },
+  {
+    "id": 27,
+    "latin": "Hei mihi quod nullis amor est medicabilis herbis",
+    "translation": "Oh me! Love cannot be cured by herbs",
+    "explanation": "Even the wisest physician cannot cure the heart. Love reminds us that not all pain seeks remedy, some simply teaches tenderness through ache.",
+    "source": "Ovid",
+    "theme": {
+      "latin": "Amor",
+      "english": "Love & Human Connection"
+    }
+  },
+  {
+    "id": 28,
+    "latin": "Audere est faucere",
+    "translation": "To dare is to do",
+    "explanation": "Courage is not the absence of fear, but the refusal to bow to it. Every act begins with a moment of daring, the decision to step forward.",
+    "source": "Ovid",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 29,
+    "latin": "Veni, vidi, vici",
+    "translation": "I came, I saw, I conquered",
+    "explanation": "Success, when earned through clarity and precision, needs no embellishment. Few words, great deeds, that is mastery.",
+    "source": "Gaius Julius Caesar",
+    "theme": {
+      "latin": "Virtus",
+      "english": "Virtue & Character"
+    }
+  },
+  {
+    "id": 30,
+    "latin": "Calamus gladio fortior",
+    "translation": "The pen is mightier than the sword",
+    "explanation": "Words reshape worlds. The mind can wound, persuade, and rebuild more lastingly than force ever can. Intelligence is a quieter weapon, and infinitely sharper.",
+    "source": "Edward Bulwer-Lytton",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 31,
+    "latin": "Palma non sine pulvere",
+    "translation": "No prize without effort.",
+    "explanation": "Glory is born of sweat, not spectacle. Every triumph carries the dust of the struggle that shaped it.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Fortuna",
+      "english": "Fate & Uncertainity"
+    }
+  },
+  {
+    "id": 32,
+    "latin": "Barba non facit philosophum",
+    "translation": "A beard does not make a philosopher.",
+    "explanation": "Appearance is not essence. Wisdom is not worn but lived, revealed in how one reasons, not how one looks. ",
+    "source": "Aulus Gellius ",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 33,
+    "latin": "Verba volant, scripta manent",
+    "translation": "Spoken words fly away, written ones remain",
+    "explanation": "The fleeting word fades with the air, but writing anchors thought in time. To write is to wrestle impermanence into memory.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 34,
+    "latin": "Magna est vis consuetudinis",
+    "translation": "Great is the power of habit",
+    "explanation": "Habit is the architecture of character. We become what we repeatedly do, and routine quietly rewires destiny while we sleepwalk through it.",
+    "source": "Cicero",
+    "theme": {
+      "latin": "Virtus",
+      "english": "Virtue & Character"
+    }
+  },
+  {
+    "id": 35,
+    "latin": "Memores acti prudentes future",
+    "translation": "Mindful of what has been done, aware of what will be.",
+    "explanation": "Memory and foresight form wisdom’s compass. The past instructs, the future beckons, and prudence lies in steering between them.",
+    "source": "Quintilian",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 36,
+    "latin": "Vacate et scire",
+    "translation": "Be still and know",
+    "explanation": "Stillness reveals understanding. In silence, the mind stops grasping and starts perceiving. Knowledge doesn’t always arrive, sometimes it’s uncovered.",
+    "source": "Psalm 46:10",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 37,
+    "latin": "Quam bene non quantum",
+    "translation": "How well, not how much",
+    "explanation": "Quality outweighs quantity in all things. It’s not how much one does, earns, or owns, it’s how well it’s done, and how fully it’s lived.",
+    "source": "Mount Royal University Motto",
+    "theme": {
+      "latin": "Virtus",
+      "english": "Virtue & Character"
+    }
+  },
+  {
+    "id": 38,
+    "latin": "Adversus solem ne loquitor",
+    "translation": "Do not speak against the sun",
+    "explanation": "Truth doesn’t bend to denial. Some things simply are, and wisdom is knowing when not to fight reality but to align with it.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 39,
+    "latin": "Vincit qui patitur",
+    "translation": "He who endures conquers",
+    "explanation": "Every setback tests patience. The ones who keep showing up win in the end.",
+    "source": "Persius",
+    "theme": {
+      "latin": "Virtus",
+      "english": "Virtue & Character"
+    }
+  },
+  {
+    "id": 40,
+    "latin": "Nil volentibus arduum",
+    "translation": "Nothing is arduous for the willing",
+    "explanation": "Human will is the engine of all creation. Obstacles exist only for those who consent to them.",
+    "source": "17th-century Dutch literary society ",
+    "theme": {
+      "latin": "Tempus",
+      "english": "Time & Impermanence"
+    }
+  },
+  {
+    "id": 41,
+    "latin": "Praesis ut prosis, ne ut imperes",
+    "translation": "Lead in order to serve, not in order to rule",
+    "explanation": "True leadership is stewardship. Authority exists not for dominance, but for the good of others.",
+    "source": "Cicero",
+    "theme": {
+      "latin": "Virtus",
+      "english": "Virtue & Character"
+    }
+  },
+  {
+    "id": 42,
+    "latin": "Necessitas etiam timidos fortes facit",
+    "translation": "Necessity makes even the timid brave.",
+    "explanation": "Desperation awakens courage. When choice disappears, fear loses its throne.",
+    "source": "Sallust",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 43,
+    "latin": "Non ducor, duco",
+    "translation": "I am not led; I lead.",
+    "explanation": "Leadership begins in self-direction. Those who steer themselves rarely drift far from purpose.",
+    "source": "Motto of São Paulo, Brazil",
+    "theme": {
+      "latin": "Virtus",
+      "english": "Virtue & Character"
+    }
+  },
+  {
+    "id": 44,
+    "latin": "Incepto ne desistam",
+    "translation": "May I not shrink from my purpose.",
+    "explanation": "Resolve is a quiet oath to the self. Once the path is chosen, hesitation becomes betrayal.",
+    "source": "Virgil",
+    "theme": {
+      "latin": "Virtus",
+      "english": "Virtue & Character"
+    }
+  },
+  {
+    "id": 45,
+    "latin": "Familia supra omnia",
+    "translation": "Family above all",
+    "explanation": "Family, chosen or born, is the foundation of identity. In a world of shifting loyalties, love rooted in kinship endures.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Amor",
+      "english": "Love & Human Connection"
+    }
+  },
+  {
+    "id": 46,
+    "latin": "Memento vivere",
+    "translation": "Remember to live",
+    "explanation": "Awareness of mortality should spark, not smother, the will to live. The heart doesn’t fade from pain, but from forgetting how extraordinary the ordinary already is.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Mors",
+      "english": "Death & Mortality"
+    }
+  },
+  {
+    "id": 47,
+    "latin": "Memento mori",
+    "translation": "Remember that you will die",
+    "explanation": "Mortality humbles ambition. When the end is certain, what matters most becomes startlingly clear.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Mors",
+      "english": "Death & Mortality"
+    }
+  },
+  {
+    "id": 48,
+    "latin": "Dum vita est, spes est",
+    "translation": "While there is life, there is hope",
+    "explanation": "Life itself is a rebellion against despair. As long as breath remains, the story can still change.",
+    "source": "Cicero",
+    "theme": {
+      "latin": "Fortuna",
+      "english": "Fate & Uncertainity"
+    }
+  },
+  {
+    "id": 49,
+    "latin": "Sic vita est",
+    "translation": "Such is life",
+    "explanation": "Acceptance is not surrender. To say “such is life” is to meet chaos without bitterness,  and walk on anyway.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Fortuna",
+      "english": "Fate & Uncertainity"
+    }
+  },
+  {
+    "id": 50,
+    "latin": "Hodie mihi, cras tibi",
+    "translation": "Today it’s me; tomorrow, it will be you.",
+    "explanation": "Mortality equalizes us all. The grave mocks pride but honors humility, we share the same final horizon.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Fortuna",
+      "english": "Fate & Uncertainity"
+    }
+  },
+  {
+    "id": 51,
+    "latin": "Omne initium difficile est",
+    "translation": "Every beginning is difficult",
+    "explanation": "The first step is always messy; every new thing, whether art, change, or self, begins in struggle before it finds rhythm. Difficulty isn’t a warning, but the proof that something real has begun.",
+    "source": "Paracelsus",
+    "theme": {
+      "latin": "Fortuna",
+      "english": "Fate & Uncertainity"
+    }
+  },
+  {
+    "id": 52,
+    "latin": "Tempora mutantur et nos mutamur in illis",
+    "translation": "Times change, and we change with them.",
+    "explanation": "Change is the law of life. To resist it is to fossilize; to evolve with it is to stay alive in spirit as well as form.",
+    "source": "Ovid",
+    "theme": {
+      "latin": "Tempus",
+      "english": "Time & Impermanence"
+    }
+  },
+  {
+    "id": 53,
+    "latin": "Ad meliora",
+    "translation": "Toward better things",
+    "explanation": "Life’s motion is forward; to live is to lean toward improvement, even through uncertainty.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Tempus",
+      "english": "Time & Impermanence"
+    }
+  },
+  {
+    "id": 54,
+    "latin": "Fortuna caeca est",
+    "translation": "Fortune is blind",
+    "explanation": "Luck plays no favorites. Fortune scatters her gifts without reason, the wise rely on character, not chance.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Fortuna",
+      "english": "Fate & Uncertainity"
+    }
+  },
+  {
+    "id": 55,
+    "latin": "Ordo ab chao",
+    "translation": "Order from chaos",
+    "explanation": "Disorder is not the enemy of structure, it’s its raw material. Chaos is just order that hasn’t been decoded yet.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Fortuna",
+      "english": "Fate & Uncertainity"
+    }
+  },
+  {
+    "id": 56,
+    "latin": "Qui totum vult, totum perdit",
+    "translation": "He who wants everything loses everything.",
+    "explanation": "Greed blinds the mind and empties the hands. To grasp at all is to hold nothing.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Virtus",
+      "english": "Virtue & Character"
+    }
+  },
+  {
+    "id": 57,
+    "latin": "Grandescunt aucta labore",
+    "translation": "By hard work, all things increase and grow",
+    "explanation": "Nothing flourishes without labor. Growth is the child of discipline, not desire.",
+    "source": "Motto of McGill University",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 58,
+    "latin": "Ars longa, vita brevis",
+    "translation": "Skillfulness takes time, and life is short",
+    "explanation": "Our lives pass quickly, yet true expertise and understanding require more time than any single lifetime can offer. Achievement is measured in persistence, not speed.",
+    "source": "Hippocrates",
+    "theme": {
+      "latin": "Tempus",
+      "english": "Time & Impermanence"
+    }
+  },
+  {
+    "id": 59,
+    "latin": "Sic infit",
+    "translation": "So it begins",
+    "explanation": "Events unfold according to their nature. Some things are beyond control, and acceptance is the quiet acknowledgment of reality.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Fortuna",
+      "english": "Fate & Uncertainity"
+    }
+  },
+  {
+    "id": 60,
+    "latin": "Gloria in arduis",
+    "translation": "Glory in adversity",
+    "explanation": "True honor is forged in challenge. It is not comfort that reveals character, but struggle and perseverance under pressure.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Virtus",
+      "english": "Virtue & Character"
+    }
+  },
+  {
+    "id": 61,
+    "latin": "Faber est suae quisque fortunae",
+    "translation": "Every man is the artisan of his own fortune.",
+    "explanation": "Our destiny is shaped by our choices and actions. Fate offers the raw material, but we are the craftsmen who forge our lives.",
+    "source": "Appius Claudius Caecus.",
+    "theme": {
+      "latin": "Virtus",
+      "english": "Virtue & Character"
+    }
+  },
+  {
+    "id": 62,
+    "latin": "Fortiter et fideliter",
+    "translation": "Bravely and faithfully",
+    "explanation": "True strength combines courage with steadfastness. Valor without loyalty, or loyalty without courage, is incomplete.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Virtus",
+      "english": "Virtue & Character"
+    }
+  },
+  {
+    "id": 63,
+    "latin": "Igne natura renovatur integra",
+    "translation": "Through fire, nature is renewed whole",
+    "explanation": "Destruction and renewal are the same process, seen from different moments. Fire doesn’t only consume, it clarifies.",
+    "source": "Alchemical and Renaissance Latin maxim",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 64,
+    "latin": "Una hirundo non facit ver",
+    "translation": "One swallow does not make a summer.",
+    "explanation": "A single sign doesn’t define the pattern. True understanding comes through patience and careful observation.",
+    "source": "Aristotle",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 65,
+    "latin": "Vulnerant omnes, ultima necat",
+    "translation": "Every hour wounds, the last kills",
+    "explanation": "Every passing hour leaves its mark; life’s final moment is the only one from which we cannot recover. Time spares no one, urging awareness and purpose in each moment.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Mors",
+      "english": "Death & Mortality"
+    }
+  },
+  {
+    "id": 66,
+    "latin": "Aurea mediocritas",
+    "translation": "The golden mean ",
+    "explanation": "Virtue lies in balance. Neither excess nor deficiency fosters wisdom; the ideal life is found in measured harmony.",
+    "source": "Horace",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 67,
+    "latin": "Amicus Plato, sed magis amica veritas",
+    "translation": "Plato is my friend, but truth is a better friend",
+    "explanation": "Loyalty to people cannot outweigh loyalty to truth. Wisdom requires questioning even those we admire most.",
+    "source": "Aristotle",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 68,
+    "latin": "Nosce te ipsum",
+    "translation": "Know thyself",
+    "explanation": "Understanding oneself is the foundation of wisdom. Only by seeing our own motives, limits, and desires can we navigate life with clarity and purpose.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  },
+  {
+    "id": 69,
+    "latin": "Quae sunt Caesaris, Caesari",
+    "translation": "Render to Caesar the things that are Caesar's",
+    "explanation": "Obligations must be honored in their proper sphere. Respect authority and societal rules, but distinguish them from what belongs to higher moral duties.",
+    "source": "Matthew 22:21",
+    "theme": {
+      "latin": "Potentia",
+      "english": "Power & Leadership"
+    }
+  },
+  {
+    "id": 70,
+    "latin": "In vino veritas",
+    "translation": "In wine, there is truth",
+    "explanation": "Alcohol lowers the filters of the mind, revealing thoughts and feelings that are otherwise concealed. Truth often emerges when restraint softens.",
+    "source": "Pliny the Elder",
+    "theme": {
+      "latin": "Virtus",
+      "english": "Virtue & Character"
+    }
+  },
+  {
+    "id": 71,
+    "latin": "Homo homini lupus",
+    "translation": "Man is a wolf to man",
+    "explanation": "Humans can be their own worst enemies. Self-interest and ambition often pit people against one another, requiring laws and ethics to restrain the natural appetite for dominance.",
+    "source": "Plautus",
+    "theme": {
+      "latin": "Virtus",
+      "english": "Virtue & Character"
+    }
+  },
+  {
+    "id": 72,
+    "latin": "Ubi amor, ibi dolor",
+    "translation": "Where there is love, there is pain",
+    "explanation": "Love opens the heart to joy, but also to vulnerability. To care deeply is to risk suffering, pain is inseparable from connection.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Amor",
+      "english": "Love & Human Connection"
+    }
+  },
+  {
+    "id": 73,
+    "latin": "Deus ex machina",
+    "translation": "God from the machine",
+    "explanation": "Sometimes solutions appear from beyond expectation, reminding us that not all outcomes are under human control.",
+    "source": "Anonymous",
+    "theme": {
+      "latin": "Sapientia",
+      "english": "Wisdom & Knowledge"
+    }
+  }
+]
