@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sapientia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <img src="/icons/icon64.png" class="theme-icon" alt="page-icon" aria-hidden="true">
+    <header class="branding-header">
+        <h1 class="extension-name">Sapientia</h1>
+        <p class="tagline">Wisdom Echoes </p>
+    </header>
+    <nav class="toggle-container" aria-label="quote-navigation">
+        <div class="toggle-wrapper">
+            <button 
+                class="toggle-btn active"
+                role="tab"
+                aria-selected="true"
+                aria-controls="quote-view"
+                id="quotes-tab"
+            > Quotes
+            </button>
+            <!-- Hidden until V2  -->
+             <!-- 
+            <button
+                class="toggle-btn"
+                role="tab"
+                aria-selected="false"
+                aria-controls="phrase-view"
+                id="phrases-tab"
+            > Phrases
+            </button>
+            -->
+        </div>
+    </nav>
+    <main class="primary-content">
+        <article 
+            id="quote-view"
+            class="quote-view"
+            role="tabpanel"
+            aria-labelledby="quotes-tab"
+            >
+            <h2 id="latin-text" class="latin-text">Loading...</h2>
+            <div class="divide" aria-hidden="true"></div>
+            <p id="translation" class="translation"></p>
+            <p id="explanation" class="explanation"></p>
+            <footer class="metadata">
+                <p class="source"></p>
+                <span aria-hidden="true">.</span>
+                <p class="theme"></p>
+            </footer>
+        </article>
+        <!-- Hidden until V2  -->
+         <!--
+        <article 
+            id="phrase-view"
+            class="phrase-view"
+            role="tabpanel"
+            aria-labelledby="phrases-tab"
+            hidden
+            > 
+            <div class="phrase-header">
+                <h2 id="phrase-latin" class="latin-phrase"></h2>
+                <p id="phrase-meta" class="phrase-meta"></p>
+            </div>
+            <div class="translation-section">
+                <p class="translation-label">Meaning</p>
+                <p id="phrase-translation" class="translation-text"></p>
+            </div>
+            <div class="usage-section">
+                <p class="section-title">Example Usage</p>
+                <div class="usage-example">
+                    <p id="phrase-example-latin" class="usage-latin"></p>
+                    <p id="phrase-example-english" class="usage-english"></p>
+                </div>
+            </div>
+            <p id="phrase-etymology" class="etymology"></p>
+        </article>
+        -->
+    </main>
+    <nav class="action-container">
+        <button
+            id="new-content-btn"
+            class="new-content-btn"
+            aria-label="Load a new content"
+        ></button>
+    </nav>
+    <script src="sidebar.js"></script>
+</body>
+</html>
