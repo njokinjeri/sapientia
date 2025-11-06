@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Sapientia",
+    "version": "1.0",
+    "description": "A firefox sidebar extension that shares latin sayings with translation and explanation at a click",
+    "permissions": [],
+    
+
+
+}
