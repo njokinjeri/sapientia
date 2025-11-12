@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sapientia</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/sidebar/styles.css">
 </head>
 <body>
     <img src="/icons/icon64.png" class="theme-icon" alt="page-icon" aria-hidden="true">
     <header class="branding-header">
         <h1 class="extension-name">Sapientia</h1>
-        <p class="tagline">Wisdom Echoes </p>
+        <p class="tagline" data-tooltip="Words remain">Verba manent</p>
     </header>
     <nav class="toggle-container" aria-label="quote-navigation">
         <div class="toggle-wrapper">
@@ -22,8 +22,6 @@
                 id="quotes-tab"
             > Quotes
             </button>
-            <!-- Hidden until V2  -->
-             <!-- 
             <button
                 class="toggle-btn"
                 role="tab"
@@ -32,10 +30,9 @@
                 id="phrases-tab"
             > Phrases
             </button>
-            -->
         </div>
     </nav>
-    <main class="primary-content">
+    <main class="content">
         <article 
             id="quote-view"
             class="quote-view"
@@ -43,12 +40,12 @@
             aria-labelledby="quotes-tab"
             >
             <h2 id="latin-text" class="latin-text">Loading...</h2>
-            <div class="divide" aria-hidden="true"></div>
+            <div class="divider" aria-hidden="true"></div>
             <p id="translation" class="translation"></p>
             <p id="explanation" class="explanation"></p>
             <footer class="metadata">
                 <p class="source"></p>
-                <span aria-hidden="true">.</span>
+                <span aria-hidden="true">&#9680;</span>
                 <p class="theme"></p>
             </footer>
         </article>
@@ -85,7 +82,7 @@
             id="new-content-btn"
             class="new-content-btn"
             aria-label="Load a new content"
-        ></button>
+        >New Quote</button>
     </nav>
     <script src="sidebar.js"></script>
 </body>

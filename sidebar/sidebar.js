@@ -3,7 +3,7 @@ const latinTranslation = document.getElementById('translation');
 const latinExplanation = document.getElementById('explanation');
 const quoteSource = document.querySelector(".source");
 const quoteLatinTheme = document.querySelector(".theme");
-const NewQuoteBtn = document.getElementById("new-content-btn");
+const newContentBtn = document.getElementById("new-content-btn");
 
 let quotesData = [];
 
@@ -21,6 +21,7 @@ const displayRandomQuote = () => {
     quoteSource.textContent = quote.source;
     quoteLatinTheme.textContent = quote.theme.latin;
     quoteLatinTheme.title = quote.theme.english;
+
 };
 
 fetch('../data/latin-quotes.json')
@@ -39,4 +40,4 @@ fetch('../data/latin-quotes.json')
         console.error("Failed to load or parse data:", error)
     });
 
- NewQuoteBtn.addEventListener("click", displayRandomQuote);
+newContentBtn.addEventListener("click", displayRandomQuote);

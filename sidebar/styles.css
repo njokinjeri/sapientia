@@ -1,0 +1,196 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+body {
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.branding-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.extension-name {
+  font-size: 2rem;
+  letter-spacing: 0.125rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  background:linear-gradient(-225deg, #231557 0%, #44107A 29%, #FF1361 67%, #FFF800 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.tagline {
+  font-size: 0.875rem;
+  letter-spacing: 0.031rem;
+  font-style: italic;
+  font-weight: 300;
+  background: linear-gradient(to right, #3ab5b0 0%, #3d99be 31%, #56317a 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding-bottom: 2rem;
+  position: relative;
+}
+
+.toggle-container {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 3rem;
+}
+
+.toggle-wrapper {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 2rem;
+  padding: 0.25rem;
+  display: flex;
+  gap: 0.25rem;
+  backdrop-filter: blur(10px);
+}
+
+.toggle-btn {
+  padding: 0.5rem 1.5rem;
+  border: none;
+  border-radius: 2rem;
+  font-size: 1rem;
+  font-family: 'Georgia', 'Times New Roman', serif;
+  letter-spacing: 0.031rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  color: #5a6366;
+  font-weight: 500;
+  background: transparent;
+}
+
+.toggle-btn:hover {
+  color: #3a4548;
+}
+
+.toggle-btn.active {
+  background: white;
+  color: #3a4548;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.toggle-btn:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.content {
+  width: 70%;
+  min-height: 31.25rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+article {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 2.5rem;
+  min-width: 25rem;
+  width: 100%;
+}
+
+#latin-text {
+  min-height: 1.5em;
+  font-size: 2.125rem;
+  font-style: italic;
+  color: #3a4548;
+  line-height: 1.4;
+  text-align: center;
+  font-weight: 500;
+  letter-spacing: 0.063rem;
+}
+
+.divider {
+  width: 10rem;
+  height: 0.063rem;
+  background: linear-gradient(90deg, transparent, #56317a, transparent);
+}
+
+.translation {
+  min-height: 2em;
+  font-size: 1.25rem;
+  color: #6b7679;
+  text-align: center;
+  line-height: 1.6;
+  font-weight: 500;
+  padding-bottom: 1rem;
+}
+
+.explanation {
+  min-height: 3em;
+  font-size: 1rem;
+  color: #8a9297;
+  line-height: 1.8;
+  text-align: center;
+  font-style: italic;
+  padding-bottom: 5rem;
+}
+
+.metadata {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.063rem;
+    background:linear-gradient(-225deg, #231557 0%, #44107A 29%, #FF1361 67%, #ffd900 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  position: absolute;
+  bottom: 12rem
+}
+
+#new-content-btn {
+  padding: 0.75rem 1.75rem;
+  background: rgba(255, 255, 255, 0.5);
+  border: 0.063rem solid rgba(58, 69, 72, 0.15);
+  border-radius: 2rem;
+  color: #4a5458;
+  font-size: 0.813rem;
+  font-family: 'Georgia', 'Times New Roman', serif;
+  letter-spacing: 0.031rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-weight: 500;
+  backdrop-filter: blur(10px);
+  align-self: center;
+  position: fixed;
+  bottom: 2.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.new-content-btn:hover {
+  background: rgba(255, 255, 255, 0.7);
+  border-color: rgba(58, 69, 72, 0.25);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.new-content-btn:active {
+  transform: translateY(0);
+}
